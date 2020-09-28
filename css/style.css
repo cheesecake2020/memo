@@ -1,0 +1,43 @@
+
+
+body,
+pre {
+  font-family: "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, sans-serif;
+}
+main {
+  padding: 30px;
+}
+main h2 {
+  font-size: 120%;
+  text-shadow: 1px 1px 3px #999;
+}
+main h2 img {
+  height: 1em;
+}
+pre {
+  min-height: 100px;
+  padding: 10px;
+  background-color: #e3f2ff;
+  box-shadow: 1px 1px 5px #eee;
+  width: 500px;
+}
+hr {
+  border-color: #7CA4D7;
+}
+.content {
+  margin-top: 30px;
+}
+form {
+  margin-top: 50px;
+}
+time {
+  color: #999;
+  font-size: 80%;
+}
+article {
+  margin-top: 30px;
+}
+.memo{
+  padding:10px 10px;
+  background: silver;
+}
